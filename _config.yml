@@ -103,5 +103,5 @@ theme: lite
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Goomelo/Goomelo.github.io
+  repo: git@github.com:Goomelo/Goomelo.github.io.git 
   branch: master
